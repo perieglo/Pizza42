@@ -1,0 +1,8 @@
+{
+  "domain": "dev-pericles112.us.auth0.com",
+  "clientId": "MdcKXVFzJwW6A5j5N6bSq2qcXXap10Bf",
+  "audience": "https://pizza42.sample",
+  "scope": "read:current_user update:current_user_metadata create:order",
+  "apiOrigin": "http://localhost:3000"
+
+}
